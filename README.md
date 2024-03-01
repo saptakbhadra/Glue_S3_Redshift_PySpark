@@ -37,9 +37,10 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
    - The entire workflow is automated using the **_AWS Glue Workflow_**, streamlining the process from data extraction to loading.
 
 ## Project Artifacts
-
-- ![Workflow Picture](Images/Workflow%20Success.png) 
-- ![Output Picture](Images/Data%20In%20Target%20Table.png)
+   ### Glue Workflow Automation pipeline
+    - ![Workflow Picture](Images/Workflow%20Success.png)
+   ### Target table after Data Ingestion
+   - ![Output Picture](Images/Data%20In%20Target%20Table.png)
 
 ## Language Used
 

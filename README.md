@@ -6,6 +6,7 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
 
 ## Workflow
 ![Flowchart](Images/Flowchart P2.png)
+
 1. **Sales Data Organization:**
    - Data is stored in different folders in an S3 bucket, organized by the year.
 

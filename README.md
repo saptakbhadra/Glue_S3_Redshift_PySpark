@@ -1,4 +1,4 @@
-# Project: AWS Glue Automation: S3 Data Ingestion to Redshift
+# Project: AWS Glue Automation: S3 Data Ingestion to Redshift using PySpark
 
 ## Overview
 
@@ -42,8 +42,7 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
    ### Target table after Data Ingestion
    - ![Output Picture](Images/Data%20In%20Target%20Table.png)
 
-## Language Used
 
-- ![PySpark Logo](Images/PySpark_logo.jpeg){:width="100px"}
+The code has been written using ![PySpark Logo](Images/PySpark_logo.jpeg){:width="100px"}
 
 Feel free to explore the provided links to gain deeper insights into specific components of the project!

@@ -44,6 +44,6 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
 
 ## Language Used
 
-- [PySpark Logo](#) 
+- ![PySpark Logo](Images/PySpark_logo.jpeg){:width="100px"}
 
 Feel free to explore the provided links to gain deeper insights into specific components of the project!

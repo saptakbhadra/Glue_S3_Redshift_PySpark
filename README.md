@@ -38,7 +38,7 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
 
 ## Project Artifacts
    ### Glue Workflow Automation pipeline
-    - ![Workflow Picture](Images/Workflow%20Success.png)
+   - ![Workflow Picture](Images/Workflow%20Success.png)
    ### Target table after Data Ingestion
    - ![Output Picture](Images/Data%20In%20Target%20Table.png)
 

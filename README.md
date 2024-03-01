@@ -1,4 +1,4 @@
-# Project: AWS Glue Automation: S3 Data Ingestion to Redshift using PySpark
+# AWS Glue Automation: S3 Data Ingestion to Redshift using PySpark
 
 ## Overview
 

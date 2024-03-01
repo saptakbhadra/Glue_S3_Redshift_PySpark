@@ -38,8 +38,8 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
 
 ## Project Artifacts
 
-- [Workflow Picture](Images/Workflow%20Success.png) - Link to the picture showcasing the automated Glue Workflow.
-- [Output Picture](Images/Data%20In%20Target%20Table.png) - Link to the picture displaying the final output.
+- ![Workflow Picture](Images/Workflow%20Success.png) - Link to the picture showcasing the automated Glue Workflow.
+- ![Output Picture](Images/Data%20In%20Target%20Table.png) - Link to the picture displaying the final output.
 
 ## Language Used
 

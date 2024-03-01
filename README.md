@@ -43,6 +43,6 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
    - ![Output Picture](Images/Data%20In%20Target%20Table.png)
 
 
-The code has been written using ![PySpark Logo](Images/PySpark_logo.jpeg){:width="100px"}
+The code has been written using <img src="Images/PySpark_logo.jpeg" alt="PySpark Logo" width="100"/>
 
 Feel free to explore the provided links to gain deeper insights into specific components of the project!

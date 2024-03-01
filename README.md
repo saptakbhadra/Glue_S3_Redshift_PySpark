@@ -5,7 +5,7 @@
 This project is designed to efficiently ingest sales data from Amazon S3 into AWS Redshift using cloud-based tools and services. The entire workflow is automated using AWS Glue, ensuring seamless data transformation and loading.
 
 ## Workflow
-![Flowchart](Images/Flowchart%20P2.png)
+<img src="Images/Flowchart%20P2.png" alt="Flowchart" width="400"/>
 
 ## Steps:
 1. **Sales Data Organization:**

@@ -1,0 +1,10 @@
+-- Author: Saptak Bhadra
+-- Description: This SQL script creates a table named 'product_tab_def' in the 'public' schema of Amazon Redshift.
+--              The table is designed to store information about products, including the year, the number of customers, and the quantity.
+
+-- Define the schema for the 'product_tab_def' table
+CREATE TABLE public.product_tab_def (
+    year VARCHAR(100),        -- Column to store the year information as a varchar with a maximum length of 100 characters
+    no_of_customer BIGINT,    -- Column to store the number of customers as a 64-bit integer
+    quantity BIGINT           -- Column to store the quantity information as a 64-bit integer
+);

@@ -38,9 +38,9 @@ This project is designed to efficiently ingest sales data from Amazon S3 into AW
 
 ## Project Artifacts
    ### Glue Workflow Automation pipeline
-   - ![Workflow Picture](Images/Workflow%20Success.png)
+   - <img src="Images/Workflow%20Success.png" alt="Workflow Picture" width="700"/>
    ### Target table after Data Ingestion
-   - ![Output Picture](Images/Data%20In%20Target%20Table.png)
+   - <img src="Images/Data%20In%20Target%20Table.png" alt="Output Picture" width="700"/>
 
 ### Language Used
 <img src="Images/PySpark_logo.jpeg" alt="PySpark Logo" width="100"/>
